@@ -1,6 +1,6 @@
 #!/bin/sh
 
-yum install -y vim
+yum install -y vim net-tools git
 
 
 yum install -y epel-release.noarch
